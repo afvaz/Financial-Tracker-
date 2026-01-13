@@ -1,4 +1,4 @@
-# Financial-Tracker-
+# Financial Tracker
 The aim of my project is to develop a dynamic web application to help people track their income and expenses, providing them with an overview of their finances. The target users of the web application are anyone who wants to improve their financial situation by understanding their spending habits.
 The overall structure of the web app consists of several components:
   - User Interface (UI) for displaying and interacting with the application.
